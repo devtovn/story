@@ -1,0 +1,158 @@
+@media only screen and (min-width: 700px) {
+	.img-wrap{
+
+     -webkit-transition: all 0.5 ease; /* Safari and Chrome */
+  	-moz-transition: all 0.5 ease; /* Firefox */
+  	-o-transition: all 0.5 ease; /* IE 9 */
+  	-ms-transition: all 0.5 ease; /* Opera */
+  	transition: all 0.5s ease;
+
+	}
+	
+	.img-wrap:hover{
+
+    -webkit-transform:scale(1.25); /* Safari and Chrome */
+    -moz-transform:scale(1.25); /* Firefox */
+    -ms-transform:scale(1.25); /* IE 9 */
+    -o-transform:scale(1.25); /* Opera */
+     transform:scale(1.25);
+     z-index: 99;
+
+}
+}
+.img-wrap{
+    width: 100%; /*just here for the preview */
+    position: relative;
+    height: 210px;
+    border-top:#21282E 1px;
+    margin-bottom:20px;
+    -webkit-box-shadow: 1px 2px 3px 2px #777;
+    -moz-box-shadow: 1px 2px 3px 2px #777;
+    box-shadow: 1px 2px 3px 2px #777;
+    text-align: center;
+  	cursor: pointer;
+}
+
+    .img-wrap img{
+        max-width: 100%;
+        height: 210px;
+        z-index: 1
+    }
+    
+    .img-wrap .caption{
+        display: block;
+        width: 100%;
+        position: absolute;
+        bottom: -1px; /*if using padding in the caption, match here */
+        left: 0;
+        z-index: 2;
+        margin: 0;
+        text-indent: 5px;
+        color: #fff;
+        font-weight: bold;
+        background: rgba(47, 34, 34, 0.9)
+    }
+    
+.img-thumb{
+    width: 100%; /*just here for the preview */
+    position: relative;
+    height: 310px;
+    border-top:#21282E 1px;
+    margin-bottom:20px;
+    -webkit-box-shadow: 1px 2px 3px 2px #777;
+    -moz-box-shadow: 1px 2px 3px 2px #777;
+    box-shadow: 1px 2px 3px 2px #777;
+    text-align: center;
+  	cursor: pointer;
+  	overflow: hidden;
+  	
+}
+
+    .img-thumb img{
+        'width: 100%;
+        max-height: 310px;
+        'z-index: 1
+    }
+    
+    .img-thumb .caption{
+        display: block;
+        width: 100%;
+        position: absolute;
+        bottom: -1px; /*if using padding in the caption, match here */
+        left: 0;
+        z-index: 2;
+        margin: 0;
+        text-indent: 5px;
+        color: #fff;
+        font-weight: bold;
+        background: #e35b5a;
+        height: 30px;
+    }
+.thongtintruyen{
+	margin: 0px !important;
+}
+
+
+.gioithieutruyen {
+    padding-bottom: 15px;
+}
+.gioithieutruyen .noidung {
+   
+}
+.gioithieutruyen .show-more {
+    color: #fff; position:relative; font-size: 12px; padding-top: 3px; height: 25px; text-align: center; background: #578ebe ; cursor: pointer;
+}
+.gioithieutruyen .show-more:hover { 
+    color: #fff;
+    font-weight: bold;
+}
+.gioithieutruyen .show-more-height { height: 200px; overflow:hidden; }
+.read{
+	margin: 0px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.chuongsub{
+	margin: 0px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	
+}
+#noidungchap{
+	padding-top:20px;
+	font-family: "Palatino Linotype","Tahoma","Times New Roman",serif;
+	line-height: 180%;
+	color: #2B2B2B;
+	font-size: 20px;
+	text-align: left;
+
+}
+.boxhome{
+	overflow: auto;
+}
+
+.truyenhot{
+	font-size: 15px;
+	display: inline;
+}
+.phantrang{
+	text-align: center
+}
+.phantrang ul li{
+	margin-right: 0px;
+}
+.toolbox{
+	max-width: 500px;
+	display: inline-table !important 
+}
+.toolboxkhung{
+	text-align: center; 
+	padding-top: 5px;
+	clear: both;
+}
+#kichthuoc{
+	margin-top: 10px;
+}
+

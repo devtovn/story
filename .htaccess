@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^([^/]*)/$ /?page=$1 [L]
+RewriteRule ^([^/]*)/([^/]*)/$ /?page=$1&act=read&chuong=$2 [L]
+RewriteRule ^the-loai/([^/]*)\.html$ /?page=the-loai&tenurl=$1 [L]
+RewriteRule ^moi-nhat/trang-([^/]*)\.html$ /?page=moi-nhat&trang=$1 [L]
+RewriteRule ^the-loai/([^/]*)/trang-([^/]*)\.html$ /?page=the-loai&tenurl=$1&trang=$2 [L]
+RewriteRule ^hinh-anh/([^/]*)\.jpg$ /images.php?hash=$1 [L]
+

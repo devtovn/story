@@ -1,0 +1,116 @@
+- 29/01/2017 - 04:55:59: ID Truyện: 10198 - Thể loại: Ngược - ID: 54 
+- 29/01/2017 - 04:58:47: ID Truyện: 10034 - Thể loại: Sắc - ID: 53 
+- 29/01/2017 - 04:58:47: ID Truyện: 10034 - Thể loại: Xuyên Không - ID: 32 
+- 29/01/2017 - 05:27:18: ID Truyện: 6529 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:27:18: ID Truyện: 6528 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:27:29: ID Truyện: 6507 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:27:29: ID Truyện: 6507 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:27:40: ID Truyện: 6484 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:27:49: ID Truyện: 6465 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:27:58: ID Truyện: 6444 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:08: ID Truyện: 6422 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:18: ID Truyện: 6400 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:28: ID Truyện: 6379 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:28:28: ID Truyện: 6379 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:39: ID Truyện: 6358 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:51: ID Truyện: 6333 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:58: ID Truyện: 6316 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:28:58: ID Truyện: 6315 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:29:09: ID Truyện: 6292 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:29:15: ID Truyện: 6279 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:29:35: ID Truyện: 6239 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:29:46: ID Truyện: 6216 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:29:56: ID Truyện: 6194 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:30:05: ID Truyện: 6172 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:30:17: ID Truyện: 6151 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:30:47: ID Truyện: 6085 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:30:55: ID Truyện: 6065 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:30:56: ID Truyện: 6064 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:30:56: ID Truyện: 6064 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:31:03: ID Truyện: 6047 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:31:12: ID Truyện: 6028 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:31:23: ID Truyện: 6005 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:28: ID Truyện: 5389 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:29: ID Truyện: 5387 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 05:36:31: ID Truyện: 5382 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:32: ID Truyện: 5381 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:32: ID Truyện: 5380 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:38: ID Truyện: 5369 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:43: ID Truyện: 5363 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:43: ID Truyện: 5363 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:44: ID Truyện: 5362 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:44: ID Truyện: 5362 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:44: ID Truyện: 5361 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:45: ID Truyện: 5360 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:45: ID Truyện: 5359 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:45: ID Truyện: 5359 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:46: ID Truyện: 5358 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:46: ID Truyện: 5358 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:46: ID Truyện: 5357 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:47: ID Truyện: 5357 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:47: ID Truyện: 5356 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:47: ID Truyện: 5356 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:48: ID Truyện: 5355 - Thể loại: Khác - ID: 66 
+- 29/01/2017 - 05:36:48: ID Truyện: 5355 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:36:56: ID Truyện: 5340 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:36:58: ID Truyện: 5336 - Thể loại: Tiểu Thuyết Phương Tây - ID: 67 
+- 29/01/2017 - 05:37:07: ID Truyện: 5320 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:37:09: ID Truyện: 5318 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 05:37:10: ID Truyện: 5316 - Thể loại: Light Novel - ID: 68 
+- 29/01/2017 - 05:37:21: ID Truyện: 5295 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 05:37:40: ID Truyện: 5259 - Thể loại: Đam Mỹ - ID: 59 
+- 29/01/2017 - 05:37:48: ID Truyện: 5245 - Thể loại: Võng Du - ID: 48 
+- 29/01/2017 - 05:38:09: ID Truyện: 5206 - Thể loại: Dị Giới - ID: 33 
+- 29/01/2017 - 05:38:33: ID Truyện: 5161 - Thể loại: Tiên Hiệp - ID: 44 
+- 29/01/2017 - 05:39:13: ID Truyện: 5093 - Thể loại: Trọng Sinh - ID: 51 
+- 29/01/2017 - 05:39:46: ID Truyện: 5032 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:39:48: ID Truyện: 5030 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 05:39:48: ID Truyện: 5030 - Thể loại: Cổ Đại - ID: 31 
+- 29/01/2017 - 05:40:28: ID Truyện: 4954 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 05:40:50: ID Truyện: 4914 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 05:41:05: ID Truyện: 4886 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:41:42: ID Truyện: 4820 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:42:26: ID Truyện: 4741 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:42:37: ID Truyện: 4721 - Thể loại: Võng Du - ID: 48 
+- 29/01/2017 - 05:43:23: ID Truyện: 4642 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:44:54: ID Truyện: 4470 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:45:24: ID Truyện: 4413 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:45:25: ID Truyện: 4411 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:45:25: ID Truyện: 4410 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:48:08: ID Truyện: 4092 - Thể loại: Kiếm Hiệp - ID: 43 
+- 29/01/2017 - 05:49:03: ID Truyện: 3980 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:49:11: ID Truyện: 3969 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 05:49:49: ID Truyện: 3893 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:51:03: ID Truyện: 3744 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:52:39: ID Truyện: 3552 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:52:53: ID Truyện: 3525 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:53:43: ID Truyện: 3427 - Thể loại: Đam Mỹ - ID: 59 
+- 29/01/2017 - 05:54:36: ID Truyện: 3321 - Thể loại: Trinh Thám - ID: 40 
+- 29/01/2017 - 05:55:24: ID Truyện: 3233 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 05:55:47: ID Truyện: 3186 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 05:59:33: ID Truyện: 2751 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 06:00:17: ID Truyện: 2667 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 06:00:56: ID Truyện: 2599 - Thể loại: Đô Thị - ID: 47 
+- 29/01/2017 - 06:01:13: ID Truyện: 2566 - Thể loại: Tiên Hiệp - ID: 44 
+- 29/01/2017 - 06:01:13: ID Truyện: 2566 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 06:01:13: ID Truyện: 2566 - Thể loại: Xuyên Không - ID: 32 
+- 29/01/2017 - 06:01:48: ID Truyện: 2492 - Thể loại: Sắc - ID: 53 
+- 29/01/2017 - 06:01:48: ID Truyện: 2492 - Thể loại: Xuyên Không - ID: 32 
+- 29/01/2017 - 06:01:48: ID Truyện: 2492 - Thể loại: Trọng Sinh - ID: 51 
+- 29/01/2017 - 06:01:48: ID Truyện: 2492 - Thể loại: Hài Hước - ID: 61 
+- 29/01/2017 - 06:03:06: ID Truyện: 2345 - Thể loại: Huyền Huyễn - ID: 35 
+- 29/01/2017 - 06:04:59: ID Truyện: 2120 - Thể loại: Đam Mỹ - ID: 59 
+- 29/01/2017 - 06:06:51: ID Truyện: 1896 - Thể loại: Nữ Phụ - ID: 64 
+- 29/01/2017 - 06:08:04: ID Truyện: 1756 - Thể loại: Sắc - ID: 53 
+- 29/01/2017 - 06:08:59: ID Truyện: 1647 - Thể loại: Truyện Teen - ID: 26 
+- 29/01/2017 - 06:09:08: ID Truyện: 1631 - Thể loại: Sắc - ID: 53 
+- 29/01/2017 - 06:09:08: ID Truyện: 1631 - Thể loại: Xuyên Không - ID: 32 
+- 29/01/2017 - 06:09:08: ID Truyện: 1631 - Thể loại: Trọng Sinh - ID: 51 
+- 29/01/2017 - 06:09:08: ID Truyện: 1631 - Thể loại: Hài Hước - ID: 61 
+- 29/01/2017 - 06:09:17: ID Truyện: 1612 - Thể loại: Ngôn Tình - ID: 41 
+- 29/01/2017 - 06:09:17: ID Truyện: 1612 - Thể loại: Cổ Đại - ID: 31 
+- 29/01/2017 - 06:12:03: ID Truyện: 1282 - Thể loại: Sắc - ID: 53 
+- 29/01/2017 - 06:14:26: ID Truyện: 991 - Thể loại: Cổ Đại - ID: 31 
+- 29/01/2017 - 06:15:54: ID Truyện: 822 - Thể loại: Ngược - ID: 54 
+- 29/01/2017 - 06:17:31: ID Truyện: 647 - Thể loại: Dị Giới - ID: 33 
+- 29/01/2017 - 06:17:31: ID Truyện: 647 - Thể loại: Huyền Huyễn - ID: 35 
